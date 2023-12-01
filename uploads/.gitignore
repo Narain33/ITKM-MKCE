@@ -1,0 +1,6 @@
+# ignore current folder files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
